@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [ATHARV PATIL]!
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in **C**, **Python**, and **Frontend Development**. I love building projects that solve real-world problems and continuously learning new technologies.
 
