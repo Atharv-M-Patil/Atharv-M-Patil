@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>perfonal porfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/a9c31d581e.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="logo.png" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Service</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">contact</a></li>
+                    <i class="fas fa-times" onclick="closemenu()"></i>
+                </ul>
+                <i class="fas fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p>Aspiring Software Engineer</p>
+                <h1>Hi,i'm <span> Atharv</span></h1>
+            </div>
+        </div>
+    </div>
+    <!-- about me........-->
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="photo.jpg" height="554px" width="936px" alt="">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">About Me</h1>
+                    <p>"As a dedicated Information Science and Engineering student at Reva University, I am passionate
+                        about building a career in software engineering. With a strong foundation in frontend
+                        development, I am skilled in creating user-friendly interfaces and enhancing user experiences.
+                        My goal is to continuously learn and grow, applying innovative solutions to real-world
+                        challenges. Eager to collaborate, solve problems, and contribute to impactful projects, I am
+                        driven to develop my expertise in the software engineering field."</p>
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                        <!--helps when we click on skills then it will show -->
+                        <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                        <p class="tab-links" onclick="opentab('education')">Education</p>
+                    </div>
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>Web development</span><br>Frontend development </li>
+                            <li><span>Programming languages</span><br>CSS,JAVA SCRIPT,C,PYTHON,HTML</li>
+
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>fresher</span><br>"I am a passionate Information Science & Engineering student
+                                with skills in HTML,CSS,JAVASCRIPT,and PYTHON,I'm egger to apply my knowladge in
+                                real-wold projects and contibute as a frontend developer.committed to continous learning
+                                and ready to take on new challenges in the software development filed." </li>
+
+
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>2015-2021</span><br>MORARJI DESAI RESISDENTAIL SCHOOL</li>
+                            <li><span>2021-2023</span><br>KONNUR COLLAGE OF SCIENCE,JAMAKHANDI</li>
+                            <li><span>2023-2027</span><br>B-TECH IN REVA UNIVERSITY BANGLORE</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--...............services..............-->
+    <div id="services">
+        <div class="container">
+            <h1 class="sub-title">My Services</h1>
+            <div class="services-list">
+                <div>
+                    <i class="fas fa-code"></i> <!--this is icon-->
+                    <h2>Web development</h2>
+                    <p>As a front-end developer, I have recently honed my skills in HTML, CSS, and JavaScript to create
+                        responsive and user-friendly web interfaces. I am passionate about implementing best practices
+                        in user experience and performance optimization. With a keen eye for design and attention to
+                        detail, I am eager to contribute to innovative web projects and continue growing in the field.
+                    </p>
+                    <a href="# ">Learn more</a>
+                </div>
+                <div>
+                    <i class="fas fa-crop-alt"></i><!--this is icon-->
+                    <h2>Programming language</h2>
+                    <p>I have a solid foundation in multiple programming languages, including C and Python, which
+                        enhance my problem-solving skills and algorithmic thinking. My experience with HTML, CSS, and
+                        JavaScript allows me to create dynamic and responsive web applications. I enjoy leveraging these
+                        technologies to build user-friendly interfaces and improve overall user experience. Eager to
+                        continue expanding my skills, I am enthusiastic about tackling new challenges in software
+                        development.</p>
+                    <a href="# ">Learn more</a>
+                </div>
+                <div>
+                    <i class="fab fa-app-store"></i>
+                    <h2>problem-solving</h2>
+                    <p>
+                        I excel at analyzing complex problems and developing effective, efficient solutions. With a
+                        methodical approach, I break down challenges into manageable components, ensuring clarity and
+                        focus. My ability to think critically and adapt to new information allows me to navigate
+                        obstacles creatively. I thrive in collaborative environments, leveraging team input to enhance
+                        problem-solving strategies and drive successful outcomes.
+                    </p>
+                    <a href="# ">Learn more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--.,,,,,,,,,,,,........portfolio....,,,,,,,,,,,,,,,.......-->
+    <div id="portfolio">
+        <div class="container">
+            <h1 class="sub-title">My Work</h1>
+            <div class="work-list">
+                <div class="work">
+                    <img src="work-1.png" alt="">
+                    <div class="layer">
+                        <h3>social media app</h3>
+                        <p>The app conncets you to the talented people around the world.
+                            download it from play store.
+                        </p>
+                        <a href="#"><i class="fas fa-external-link-alt"></i></a>
+
+                    </div>
+                </div>
+
+
+                <div class="work">
+                    <img src="work-2.png" alt="">
+                    <div class="layer">
+                        <h3>musci app</h3>
+                        <p>The app conncets you to the soul of talented people around the world.by their melodious voice
+                            download it from play store.
+                        </p>
+                        <a href="#"><i class="fas fa-external-link-alt"></i></a>
+
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="work-3.png" alt="">
+                    <div class="layer">
+                        <h3>online shoping app</h3>
+                        <p>The app help to buy or sell any products.
+                            download it from play store.
+                        </p>
+                        <a href="#"><i class="fas fa-external-link-alt"></i></a>
+
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="btn">See more</a>
+        </div>
+    </div>
+    <!-- ,.,.,.,.,.,.,.,.,..contact,..,.,.,.,.,.,.,.,.,.,.-->
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title">Contact me</h1>
+                    <p><i class="fas fa-paper-plane"></i> athravmaheshpatil2@gmail.com</p>
+                    <p><i class="fas fa-phone-square-alt"></i> 9663843577</p>
+                    <div class="social-icons">
+                        <a href="https://facebook.com/"><i class="fab fa-facebook"></i></a>
+                        <a href=""><i class="fab fa-twitter-square"></i></a>
+                        <a href=""><i class="fab fa-instagram"></i></a>
+                        <a href=""><i class="fab fa-linkedin"></i></a>
+                    </div>
+                    <a href="Suraksha resume _Professional Resume – 01.pdf" download class="btn btn2 ">Download CV</a>
+                </div>
+                <div class="contact-right">
+                    <form name="submit-to-google-sheet">
+                        <input type="text" name="Name" placeholder="Your Name" required>
+                        <input type="email" name="Email" placeholder="Your Email" required>
+                        <textarea name="Message" rows="6" placeholder="Your Message "></textarea>
+                        <button type="submit" class="btn btn2">submit</button>
+
+                    </form>
+                    <span id="msg"></span>
+
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>copyright &copy; kevin.made by <i class="fas fa-heart"></i> Athravpatil</p>
+        </div>
+    </div>
+
+    </div>
+    <script>
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+
+        function opentab(tabname) {
+            for (tablink of tablinks) {
+                tablink.classList.remove("active-link");
+            }
+            for (tabcontent of tabcontents) {
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link"); //this line helps to gave red color bar when we click on skills and educations and experience
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+    </script>
+    <script>
+        var sidemeu = document.getElementById("sidemenu");
+        function openmenu() {
+            sidemeu.style.right = "0";
+        }
+        function closemenu() {
+            sidemeu.style.right = "-200px";
+        }
+    </script>
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbxr6uPxNV8hNGtTBayn6CEUAMk-Caa_HIpVCvU4hB8Idj559SmZ-4ORJO_UjNTJx7HR/exec'
+        const form = document.forms['submit-to-google-sheet']
+        constmsg=document.getElementById("msg")
+        form.addEventListener('submit', e => {
+            e.preventDefault()
+            fetch(scriptURL, { method: 'POST', body: new FormData(form) })
+                .then(response => {
+                    msg.innerHTML="message send sucessfully"
+                setTimeout(function(){
+                    msg.innerHTML=""
+                }, 5000)
+                form.reset()
+                })
+                .catch(error => console.error('Error!', error.message))
+        })
+    </script>
+
+</body>
+
+</html>
