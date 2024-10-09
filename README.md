@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **C**
 
 - **Languages**: C, Python, JavaScript, HTML, CSS
 - **Tools**: Git, VS Code, 
-- **Databases**: MySQL
 
 ## 🚀 Projects
 
