@@ -11,7 +11,9 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **C**
 
 Here are a few projects I’ve worked on:
 
-- **[Project Name 1](https://atharv-m-patil.github.io/Atharv-M-Patil/)**: i am created my first portfolio webside,i used may new animations in this it looks attracting check once link is give...!
+- **[portfolio website](https://atharv-m-patil.github.io/Atharv-M-Patil/)**: i am created my first portfolio webside,i used may new animations in this it looks attracting check once link is give...!
+- **[Netflix Data Cleaning Project](https://github.com/Atharv-M-Patil/DATA_CLEANING/blob/main/main.ipynb)  
+  Cleaned and analyzed Netflix dataset using Python (Pandas).
 
 ## 🌱 I’m currently learning
 
