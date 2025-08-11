@@ -15,8 +15,7 @@ Here are a few projects I’ve worked on:
 - I am created my first portfolio webside,i used may new animations in this it looks attracting check once link is give...!
 - [Netflix Data Cleaning Project](https://github.com/Atharv-M-Patil/DATA_CLEANING/blob/main/main.ipynb)  
   Cleaned and analyzed Netflix dataset using Python (Pandas).
-- [Amazon Clone website](file:///Users/atharvpatil/Documents/ManyCam%20Projects/amazon%20clone%20project/main.html)  
-  To get real time experience on frontend development i created amazon clone website using HTML,CSS,JS
+
 
 ## 🌱 I’m currently learning
 
