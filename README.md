@@ -4,17 +4,50 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **C**
 
 ## 💻 Skills
 
-- **Languages**: C, Python, JavaScript, HTML, CSS
-- **Tools**: Git, VS Code, 
+- **Languages**: C, Python, JavaScript, HTML, CSS,java,c++
+- **Tools**: Git, VS Code,
+- **Cloud**:amazon s3,amazon glue,amazon SNS,amazon IAM
+- **Data engineer**:Data warehousing,data modeling,ETL,pipline creation
+
 
 ## 🚀 Projects
 
 Here are a few projects I’ve worked on:
 
-- **[portfolio website](https://atharv-m-patil.github.io/Atharv-M-Patil/)**:
-- I am created my first portfolio webside,i used may new animations in this it looks attracting check once link is give...!
-- [Netflix Data Cleaning Project](https://github.com/Atharv-M-Patil/DATA_CLEANING/blob/main/main.ipynb)  
-  Cleaned and analyzed Netflix dataset using Python (Pandas).
+
+
+## 🚀 Projects
+
+### **[1. Amazon Clone (HTML & CSS)]()**
+A fully responsive Amazon homepage clone built using pure HTML & CSS.  
+**Features:**
+- Pixel-perfect UI inspired by Amazon  
+- Responsive layout using Flexbox & Grid  
+- Custom product cards & banners  
+- Clean and scalable structure  
+
+
+---
+
+### **[2. Netflix Data Cleaning – Python (Pandas)](https://github.com/Atharv-M-Patil/DATA_CLEANING/blob/main/main.ipynb)**
+Cleaned and analyzed the **Netflix Movies & TV Shows dataset** using Pandas.  
+**Highlights:**
+- Handled missing values & duplicates  
+- Standardized dataset  
+- Exploratory Data Analysis (EDA)  
+- Extracted insights (genre count, ratings distribution, release trends)  
+
+
+---
+
+### **[3. Portfolio Website (HTML, CSS, JS)](https://atharv-m-patil.github.io/Atharv-M-Patil/)**
+My personal portfolio website showcasing my work with modern UI and animations.  
+**Features:**
+- Smooth animations  
+- Fully responsive layout  
+- Clean UI & structured code  
+
+
 
 
 ## 🌱 I’m currently learning
@@ -22,6 +55,9 @@ Here are a few projects I’ve worked on:
 - Advanced Python techniques
 - Web accessibility best practices
 - DevOps fundamentals
+- Data Science
+- Machine leaninig
+- Deep learning
 
 ## 📫 How to reach me
 
