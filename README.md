@@ -16,9 +16,7 @@ Here are a few projects I’ve worked on:
 
 
 
-## 🚀 Projects
-
-### **[1. Amazon Clone (HTML & CSS)]()**
+### **[1. Amazon Clone (HTML & CSS)](https://github.com/Atharv-M-Patil/Amazon-Clone)**
 A fully responsive Amazon homepage clone built using pure HTML & CSS.  
 **Features:**
 - Pixel-perfect UI inspired by Amazon  
