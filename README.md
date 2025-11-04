@@ -30,12 +30,12 @@ A fully responsive Amazon homepage clone built using pure HTML & CSS.
 
 ### **[2. Tic Tac Toe Game (HTML, CSS & JavaScript)]( https://github.com/Atharv-M-Patil/tic-tac-toe)
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
-Features:
--Two-player gameplay with smooth turn switching (O vs X)
--Automatic winner detection across rows, columns, and diagonals
--Reset/New Game functionality to restart instantly
--Clean and responsive UI for both desktop and mobile
--beginner-friendly logic using event listeners and DOM manipulation
+**Highlights:**
+- Two-player gameplay with smooth turn switching (O vs X)
+- Automatic winner detection across rows, columns, and diagonals
+- Reset/New Game functionality to restart instantly
+- Clean and responsive UI for both desktop and mobile
+- beginner-friendly logic using event listeners and DOM manipulation
 
 
 ----
