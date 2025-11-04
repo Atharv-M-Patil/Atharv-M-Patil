@@ -27,7 +27,21 @@ A fully responsive Amazon homepage clone built using pure HTML & CSS.
 
 ---
 
-### **[2. Netflix Data Cleaning – Python (Pandas)](https://github.com/Atharv-M-Patil/DATA_CLEANING/blob/main/main.ipynb)**
+
+### **[2. Tic Tac Toe Game (HTML, CSS & JavaScript)]( https://github.com/Atharv-M-Patil/tic-tac-toe)
+A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
+Features:
+-Two-player gameplay with smooth turn switching (O vs X)
+-Automatic winner detection across rows, columns, and diagonals
+-Reset/New Game functionality to restart instantly
+-Clean and responsive UI for both desktop and mobile
+-beginner-friendly logic using event listeners and DOM manipulation
+
+
+----
+
+
+### **[3. Netflix Data Cleaning – Python (Pandas)](https://github.com/Atharv-M-Patil/DATA_CLEANING/blob/main/main.ipynb)**
 Cleaned and analyzed the **Netflix Movies & TV Shows dataset** using Pandas.  
 **Highlights:**
 - Handled missing values & duplicates  
@@ -38,7 +52,7 @@ Cleaned and analyzed the **Netflix Movies & TV Shows dataset** using Pandas.
 
 ---
 
-### **[3. Portfolio Website (HTML, CSS, JS)](https://atharv-m-patil.github.io/Atharv-M-Patil/)**
+### **[4. Portfolio Website (HTML, CSS, JS)](https://atharv-m-patil.github.io/Atharv-M-Patil/)**
 My personal portfolio website showcasing my work with modern UI and animations.  
 **Features:**
 - Smooth animations  
