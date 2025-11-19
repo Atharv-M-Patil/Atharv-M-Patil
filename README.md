@@ -96,6 +96,9 @@ Cleaned and analyzed the **Netflix Movies & TV Shows dataset** using Pandas.
   <!-- Contribution Streak -->
   <img src="https://streak-stats.demolab.com?user=Atharv-M-Patil&theme=tokyonight&hide_border=false" height="180" />
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Atharv-M-Patil&label=Profile%20Views&color=00bfff&style=flat" alt="Profile Views" />
+</p>
 
 
 
