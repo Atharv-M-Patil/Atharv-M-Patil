@@ -46,12 +46,22 @@ Keras-based Neural Network provided improved predictive capability for complex p
 
 ---
 
-### **[2. Portfolio Website (HTML, CSS, JS)](https://atharv-m-patil.github.io/Atharv-M-Patil/)**
-My personal portfolio website showcasing my work with modern UI and animations.  
-**Features:**
-- Smooth animations  
-- Fully responsive layout  
-- Clean UI & structured code   
+### **[2. Amazon-clone ](https://github.com/Atharv-M-Patil/clone)**
+
+This project is a frontend clone of the Amazon shopping website, built using **React**, **CSS**, and **JavaScript**.  
+The goal of this project is to understand how large-scale eCommerce UI works, including product listing, dynamic UI components, and responsive layouts.
+
+---
+
+## 🚀 Features
+
+✔ Fully responsive modern UI  
+✔ Amazon-like **Header Navigation, Banner & Product Cards**  
+✔ Add To Cart UI functionality (Frontend behavior)  
+✔ Reusable React components for clean code  
+✔ Hover effects & product grid similar to Amazon  
+✔ Smooth scrolling user interface  
+  
 
 
 ---
