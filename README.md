@@ -82,6 +82,20 @@ Cleaned and analyzed the **Netflix Movies & TV Shows dataset** using Pandas.
 ---
 
 
+## 📈 GitHub Analytics
+
+<p align="center">
+  <!-- Total GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-M-Patil&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170" />
+
+  <!-- Language Usage Across All Repositories -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-M-Patil&langs_count=8&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=Atharv-M-Patil&theme=tokyonight&hide_border=false" height="180" />
+</p>
 
 
 
