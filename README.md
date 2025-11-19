@@ -99,6 +99,13 @@ Cleaned and analyzed the **Netflix Movies & TV Shows dataset** using Pandas.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Atharv-M-Patil&label=Profile%20Views&color=00bfff&style=flat" alt="Profile Views" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharv-M-Patil&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-M-Patil&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 
 
